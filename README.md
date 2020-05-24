@@ -4,7 +4,7 @@ line bot
  ## 加入方法 
  1. 機器人ID:  @115bodto
  2. 掃 QR:
-    ![image][https://github.com/xiao-fighting/midtern-hw/blob/master/QRcode.png]
+    ![image](https://github.com/xiao-fighting/midtern-hw/blob/master/QRcode.png)
  
 ## 公開資料來源:
     1. 農委會資料開放平台-農業體驗戶外教育休閒農場
