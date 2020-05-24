@@ -1,4 +1,3 @@
-line bot
 # midtern-hw-line_bot
   
  ## 加入方法 
